@@ -1,0 +1,25 @@
+.tableContainer {
+    max-height: 200px; 
+    overflow-y: auto;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.th, .td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+h2 {
+    margin-top: 20px;
+}

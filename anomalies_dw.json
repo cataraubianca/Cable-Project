@@ -1,0 +1,4402 @@
+[
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 341.8798723333,
+        "anomaly_mavg": 245.54024493334003,
+        "anomaly_timestamp": 1708745078,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 884.140337,
+        "anomaly_mavg": 152.0584988636757,
+        "anomaly_timestamp": 1708745030,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 133.1962243333,
+        "anomaly_mavg": 108.31255473329999,
+        "anomaly_timestamp": 1708733462,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 354.3423893333,
+        "anomaly_mavg": 191.98375293331998,
+        "anomaly_timestamp": 1708733536,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 346.4383843333,
+        "anomaly_mavg": 192.99448460001997,
+        "anomaly_timestamp": 1708733513,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "200.107.82.196",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 1261.9151203333,
+        "anomaly_mavg": 171.998121839996,
+        "anomaly_timestamp": 1708733651,
+        "asn": "263779",
+        "as_name": "Academia Nacional de Ciencias",
+        "country_code": "CR"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 393.081487,
+        "anomaly_mavg": 254.372044493332,
+        "anomaly_timestamp": 1708733671,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 444.2986785,
+        "anomaly_mavg": 247.98521826668403,
+        "anomaly_timestamp": 1708733697,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 443.010929,
+        "anomaly_mavg": 284.076095893324,
+        "anomaly_timestamp": 1708745120,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 387.8760145,
+        "anomaly_mavg": 261.35378760537156,
+        "anomaly_timestamp": 1708745394,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.9471973333,
+        "anomaly_mavg": 111.46823158300637,
+        "anomaly_timestamp": 1708745381,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 383.855893,
+        "anomaly_mavg": 256.927207493312,
+        "anomaly_timestamp": 1708733892,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 385.4967943333,
+        "anomaly_mavg": 232.323240293332,
+        "anomaly_timestamp": 1708734133,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 428.68793,
+        "anomaly_mavg": 253.70563695774945,
+        "anomaly_timestamp": 1708734558,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 375.256781,
+        "anomaly_mavg": 258.935391587773,
+        "anomaly_timestamp": 1708745674,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 380.340177,
+        "anomaly_mavg": 221.72865400860576,
+        "anomaly_timestamp": 1708745545,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 391.53431,
+        "anomaly_mavg": 197.37279589369453,
+        "anomaly_timestamp": 1708735538,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 342.47534,
+        "anomaly_mavg": 254.2639524810844,
+        "anomaly_timestamp": 1708736547,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 438.8818865,
+        "anomaly_mavg": 243.28756834703609,
+        "anomaly_timestamp": 1708746123,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 436.2367915,
+        "anomaly_mavg": 321.52529560822165,
+        "anomaly_timestamp": 1708746154,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 405.790822,
+        "anomaly_mavg": 220.5247244892351,
+        "anomaly_timestamp": 1708737134,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 384.8057026667,
+        "anomaly_mavg": 270.0195620802235,
+        "anomaly_timestamp": 1708737032,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 385.2350176667,
+        "anomaly_mavg": 275.45330399422056,
+        "anomaly_timestamp": 1708737022,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 440.405684,
+        "anomaly_mavg": 289.54850748865067,
+        "anomaly_timestamp": 1708737077,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 386.4278935,
+        "anomaly_mavg": 192.4140078003725,
+        "anomaly_timestamp": 1708736911,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 383.4942483333,
+        "anomaly_mavg": 203.4260077681676,
+        "anomaly_timestamp": 1708736780,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 412.088083,
+        "anomaly_mavg": 294.63116349354107,
+        "anomaly_timestamp": 1708737395,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "96.126.70.90",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 138.9359463333,
+        "anomaly_mavg": 104.7920890255332,
+        "anomaly_timestamp": 1708738675,
+        "asn": "21659",
+        "as_name": "Alt Telecom",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "45.239.44.43",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 274.656576,
+        "anomaly_mavg": 228.5670292021907,
+        "anomaly_timestamp": 1708738740,
+        "asn": "266858",
+        "as_name": "INTERNET & MEDIA S.A.",
+        "country_code": "PY"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 422.9742763333,
+        "anomaly_mavg": 198.658345430689,
+        "anomaly_timestamp": 1708738685,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 860.073952,
+        "anomaly_mavg": 152.02478525105477,
+        "anomaly_timestamp": 1708738934,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 299.8299936667,
+        "anomaly_mavg": 173.43699208363677,
+        "anomaly_timestamp": 1708739127,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 286.0368913333,
+        "anomaly_mavg": 232.0744895739316,
+        "anomaly_timestamp": 1708740466,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 148.391715,
+        "anomaly_mavg": 108.61789618587946,
+        "anomaly_timestamp": 1708742071,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.143.136.43",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 298.8956836667,
+        "anomaly_mavg": 244.43836071226687,
+        "anomaly_timestamp": 1708742583,
+        "asn": "63781",
+        "as_name": "Kobayashi Family Net LLP",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 333.353891,
+        "anomaly_mavg": 217.29562802691626,
+        "anomaly_timestamp": 1708744644,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 163.200061,
+        "anomaly_mavg": 135.4385875318339,
+        "anomaly_timestamp": 1708744661,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 309.9376076667,
+        "anomaly_mavg": 192.8136969870977,
+        "anomaly_timestamp": 1708742742,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "103.148.239.134",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 203.412197,
+        "anomaly_mavg": 160.3185054434789,
+        "anomaly_timestamp": 1708743469,
+        "asn": "132337",
+        "as_name": "AXCLUSIVE PTE. LTD.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 138.3378133333,
+        "anomaly_mavg": 108.36705301661303,
+        "anomaly_timestamp": 1708743670,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 458.8624615,
+        "anomaly_mavg": 242.11694044388076,
+        "anomaly_timestamp": 1708748335,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 291.134695,
+        "anomaly_mavg": 173.58708589978076,
+        "anomaly_timestamp": 1708748241,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 296.7456246667,
+        "anomaly_mavg": 192.282446435069,
+        "anomaly_timestamp": 1708744201,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 261.3417083333,
+        "anomaly_mavg": 197.5756649149669,
+        "anomaly_timestamp": 1708744194,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 478.0575135,
+        "anomaly_mavg": 232.83914177464544,
+        "anomaly_timestamp": 1708744185,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 396.101112,
+        "anomaly_mavg": 237.24873169007788,
+        "anomaly_timestamp": 1708748866,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 434.99494,
+        "anomaly_mavg": 275.14588495510804,
+        "anomaly_timestamp": 1708748992,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 378.478454,
+        "anomaly_mavg": 192.62657442669462,
+        "anomaly_timestamp": 1708746420,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 380.812424,
+        "anomaly_mavg": 193.18918279178388,
+        "anomaly_timestamp": 1708746395,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 384.7341365,
+        "anomaly_mavg": 235.5939717851155,
+        "anomaly_timestamp": 1708746449,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 402.9651905,
+        "anomaly_mavg": 219.51775668870954,
+        "anomaly_timestamp": 1708747940,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 379.4493355,
+        "anomaly_mavg": 236.95998495361007,
+        "anomaly_timestamp": 1708746924,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 379.5525085,
+        "anomaly_mavg": 238.01773103172218,
+        "anomaly_timestamp": 1708746857,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 427.6639075,
+        "anomaly_mavg": 269.75182886932157,
+        "anomaly_timestamp": 1708746830,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.113.176.82",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 565.981618,
+        "anomaly_mavg": 179.1419867241757,
+        "anomaly_timestamp": 1708747308,
+        "asn": "137566",
+        "as_name": "Supernap Thailand Company Limited",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 332.6459576667,
+        "anomaly_mavg": 247.57586997537987,
+        "anomaly_timestamp": 1708749764,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "170.254.172.12",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 196.8227663333,
+        "anomaly_mavg": 161.45998541450453,
+        "anomaly_timestamp": 1708749693,
+        "asn": "265641",
+        "as_name": "TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND)",
+        "country_code": "VE"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 328.4138126667,
+        "anomaly_mavg": 233.46553987485424,
+        "anomaly_timestamp": 1708749201,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "63.222.191.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 382.622812,
+        "anomaly_mavg": 298.29999113065315,
+        "anomaly_timestamp": 1708749533,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 248.935263,
+        "anomaly_mavg": 206.3496101037805,
+        "anomaly_timestamp": 1708750425,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "102.219.127.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 225.5580216667,
+        "anomaly_mavg": 173.73031191112648,
+        "anomaly_timestamp": 1708750965,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 357.8316363333,
+        "anomaly_mavg": 244.3463207847145,
+        "anomaly_timestamp": 1708751239,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 445.8401266667,
+        "anomaly_mavg": 236.1703952923613,
+        "anomaly_timestamp": 1708751110,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 135.0616703333,
+        "anomaly_mavg": 107.935494575343,
+        "anomaly_timestamp": 1708752803,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.168.145.10",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 201.6505276667,
+        "anomaly_mavg": 166.9455659029988,
+        "anomaly_timestamp": 1708753811,
+        "asn": "398960",
+        "as_name": "Cryoflesh Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 203.3278935,
+        "anomaly_mavg": 151.98926612083233,
+        "anomaly_timestamp": 1708754224,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "150.164.1.222",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 342.535104,
+        "anomaly_mavg": 222.51946011679888,
+        "anomaly_timestamp": 1708754755,
+        "asn": "271354",
+        "as_name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "91.185.6.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 271.3549586667,
+        "anomaly_mavg": 101.71813533473676,
+        "anomaly_timestamp": 1708754977,
+        "asn": "41798",
+        "as_name": "JSC Transtelecom",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 214.2830906667,
+        "anomaly_mavg": 173.46929733518476,
+        "anomaly_timestamp": 1708754513,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "194.50.88.164",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 389.4056363333,
+        "anomaly_mavg": 114.82373108618188,
+        "anomaly_timestamp": 1708755221,
+        "asn": "39617",
+        "as_name": "Chris Burton",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "149.20.162.6",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 361.773525,
+        "anomaly_mavg": 153.40633126615444,
+        "anomaly_timestamp": 1708756392,
+        "asn": "21699",
+        "as_name": "IO INC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "194.50.88.164",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 392.782583,
+        "anomaly_mavg": 125.38354310044627,
+        "anomaly_timestamp": 1708756918,
+        "asn": "39617",
+        "as_name": "Chris Burton",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "85.185.93.118",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 156.8878436667,
+        "anomaly_mavg": 116.45665730183009,
+        "anomaly_timestamp": 1708757123,
+        "asn": "58224",
+        "as_name": "Iran Telecommunication Company PJS",
+        "country_code": "IR"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 258.3596443333,
+        "anomaly_mavg": 195.01543717713668,
+        "anomaly_timestamp": 1708757137,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "23.142.248.60",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 558.7192976667,
+        "anomaly_mavg": 126.19261370202874,
+        "anomaly_timestamp": 1708757679,
+        "asn": "393577",
+        "as_name": "Tritan Development",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "149.20.162.6",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 300.2495493333,
+        "anomaly_mavg": 159.83519707647338,
+        "anomaly_timestamp": 1708757836,
+        "asn": "21699",
+        "as_name": "IO INC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "173.248.145.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 176.2740293333,
+        "anomaly_mavg": 135.60552865709684,
+        "anomaly_timestamp": 1708758900,
+        "asn": "30475",
+        "as_name": "Handy Networks, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "173.248.145.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 186.380084,
+        "anomaly_mavg": 151.8729289275781,
+        "anomaly_timestamp": 1708759079,
+        "asn": "30475",
+        "as_name": "Handy Networks, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 167.6275116667,
+        "anomaly_mavg": 135.6875290629706,
+        "anomaly_timestamp": 1708759051,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "63.222.191.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 382.942428,
+        "anomaly_mavg": 285.42774115793077,
+        "anomaly_timestamp": 1708759507,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 308.1050506667,
+        "anomaly_mavg": 249.03912562400808,
+        "anomaly_timestamp": 1708759575,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 244.3182843333,
+        "anomaly_mavg": 187.5267344709604,
+        "anomaly_timestamp": 1708760267,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "81.211.196.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 285.7900176667,
+        "anomaly_mavg": 235.26739537646276,
+        "anomaly_timestamp": 1708760260,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "185.209.84.141",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 389.3255393333,
+        "anomaly_mavg": 197.67877463530675,
+        "anomaly_timestamp": 1708760271,
+        "asn": "57578",
+        "as_name": "Misaka Network, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 763.078458,
+        "anomaly_mavg": 151.83919246998562,
+        "anomaly_timestamp": 1708761508,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "150.164.1.222",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 276.546113,
+        "anomaly_mavg": 222.5795142715976,
+        "anomaly_timestamp": 1708761815,
+        "asn": "271354",
+        "as_name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 163.4651093333,
+        "anomaly_mavg": 118.66427660553795,
+        "anomaly_timestamp": 1708761988,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "200.160.6.19",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 282.449854,
+        "anomaly_mavg": 197.37508083972108,
+        "anomaly_timestamp": 1708762584,
+        "asn": "22548",
+        "as_name": "N\\195\\131\\194\\186cleo de Inf. e Coord. do Ponto BR - NIC.BR",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "66.255.252.225",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 152.496985,
+        "anomaly_mavg": 117.39549393208932,
+        "anomaly_timestamp": 1708762530,
+        "asn": "13781",
+        "as_name": "Hopkinsville Electric System",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.119.111.139",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 406.6460585,
+        "anomaly_mavg": 325.16081586447933,
+        "anomaly_timestamp": 1708762648,
+        "asn": "4608",
+        "as_name": "Asia Pacific Network Information Centre",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "204.87.183.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 190.865522,
+        "anomaly_mavg": 155.55844483998862,
+        "anomaly_timestamp": 1708762450,
+        "asn": "7247",
+        "as_name": "Mojo Networks",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.157.112.130",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 197.9104746667,
+        "anomaly_mavg": 162.3255370764677,
+        "anomaly_timestamp": 1708762436,
+        "asn": "62538",
+        "as_name": "ipFail Networks",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "185.102.84.201",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 196.998633,
+        "anomaly_mavg": 161.43056732672972,
+        "anomaly_timestamp": 1708762443,
+        "asn": "58057",
+        "as_name": "Securebit AG",
+        "country_code": "CH"
+    },
+    {
+        "anomaly_source": "23.161.80.44",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 198.8437036667,
+        "anomaly_mavg": 163.85435049407548,
+        "anomaly_timestamp": 1708762440,
+        "asn": "398447",
+        "as_name": "OHANACRAFT, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.153.56.30",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 183.818032,
+        "anomaly_mavg": 148.55678704978945,
+        "anomaly_timestamp": 1708762424,
+        "asn": "35008",
+        "as_name": "Kerfuffle, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 235.9423333333,
+        "anomaly_mavg": 189.39524868333518,
+        "anomaly_timestamp": 1708763373,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "63.222.191.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 383.2326255,
+        "anomaly_mavg": 285.55535868264536,
+        "anomaly_timestamp": 1708763468,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "96.126.70.90",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 131.6061873333,
+        "anomaly_mavg": 102.72997245298652,
+        "anomaly_timestamp": 1708763618,
+        "asn": "21659",
+        "as_name": "Alt Telecom",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 259.4585186667,
+        "anomaly_mavg": 208.01408254332114,
+        "anomaly_timestamp": 1708763625,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 416.3278713333,
+        "anomaly_mavg": 192.7577469560216,
+        "anomaly_timestamp": 1708763872,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 257.6672713333,
+        "anomaly_mavg": 202.02885843737016,
+        "anomaly_timestamp": 1708764339,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "156.154.53.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 199.0682646667,
+        "anomaly_mavg": 139.28722526191447,
+        "anomaly_timestamp": 1708765315,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.168.145.10",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 233.6427923333,
+        "anomaly_mavg": 168.04433761840272,
+        "anomaly_timestamp": 1708765614,
+        "asn": "398960",
+        "as_name": "Cryoflesh Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "139.162.3.33",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 223.1115403333,
+        "anomaly_mavg": 151.3579598588533,
+        "anomaly_timestamp": 1708765806,
+        "asn": "63949",
+        "as_name": "Akamai Technologies, Inc.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 634.445253,
+        "anomaly_mavg": 156.61605911778662,
+        "anomaly_timestamp": 1708765846,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 251.221988,
+        "anomaly_mavg": 198.2881607906486,
+        "anomaly_timestamp": 1708766503,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 853.656671,
+        "anomaly_mavg": 151.90025464055748,
+        "anomaly_timestamp": 1708766529,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 433.732515,
+        "anomaly_mavg": 217.52722704585102,
+        "anomaly_timestamp": 1708766960,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 365.082851,
+        "anomaly_mavg": 191.97884839308028,
+        "anomaly_timestamp": 1708767023,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 254.920212,
+        "anomaly_mavg": 201.67650507596233,
+        "anomaly_timestamp": 1708768223,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "139.180.132.31",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 314.0556246667,
+        "anomaly_mavg": 146.7411078608592,
+        "anomaly_timestamp": 1708768439,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.187.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.2649576667,
+        "anomaly_mavg": 262.5138680153207,
+        "anomaly_timestamp": 1708768490,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.106.8",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 336.995315,
+        "anomaly_mavg": 254.69671379700526,
+        "anomaly_timestamp": 1708768499,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.41.0.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.8412813333,
+        "anomaly_mavg": 264.42797352551855,
+        "anomaly_timestamp": 1708768474,
+        "asn": "1221",
+        "as_name": "Telstra Corporation Limited",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "37.252.245.94",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 154.4326375,
+        "anomaly_mavg": 119.40331501178605,
+        "anomaly_timestamp": 1708768570,
+        "asn": "42473",
+        "as_name": "ANEXIA Internetdienstleistungs GmbH",
+        "country_code": "AT"
+    },
+    {
+        "anomaly_source": "103.84.153.114",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 241.4032676667,
+        "anomaly_mavg": 158.68387705349895,
+        "anomaly_timestamp": 1708768547,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "45.76.126.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 403.717793,
+        "anomaly_mavg": 280.0045335027212,
+        "anomaly_timestamp": 1708768545,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.242.74.185",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 259.8426136667,
+        "anomaly_mavg": 146.20135867357646,
+        "anomaly_timestamp": 1708768547,
+        "asn": "41095",
+        "as_name": "IPTP LTD",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "37.10.41.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 274.0378396667,
+        "anomaly_mavg": 160.81048097401816,
+        "anomaly_timestamp": 1708768600,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "152.195.196.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 229.014498,
+        "anomaly_mavg": 146.37596070305887,
+        "anomaly_timestamp": 1708768540,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "37.10.40.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 282.0559706667,
+        "anomaly_mavg": 222.97398784557737,
+        "anomaly_timestamp": 1708768501,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "103.77.105.3",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 251.40929,
+        "anomaly_mavg": 158.83206096274992,
+        "anomaly_timestamp": 1708768579,
+        "asn": "133800",
+        "as_name": "PT Biznet Gio Nusantara",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "101.53.31.6",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 280.9483043333,
+        "anomaly_mavg": 166.72204858681937,
+        "anomaly_timestamp": 1708768699,
+        "asn": "24173",
+        "as_name": "Branch of Netnam Company in Ho Chi Minh City",
+        "country_code": "VN"
+    },
+    {
+        "anomaly_source": "139.99.219.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 435.146637,
+        "anomaly_mavg": 272.5749347700336,
+        "anomaly_timestamp": 1708768522,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "81.211.172.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 246.7283873333,
+        "anomaly_mavg": 180.5671673328467,
+        "anomaly_timestamp": 1708768689,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.194.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 250.8350136667,
+        "anomaly_mavg": 184.49252756645973,
+        "anomaly_timestamp": 1708768789,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.197.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 239.753639,
+        "anomaly_mavg": 173.44286022966284,
+        "anomaly_timestamp": 1708768701,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.203.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 270.1089213333,
+        "anomaly_mavg": 203.58900593577306,
+        "anomaly_timestamp": 1708768569,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.199.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 256.1254356667,
+        "anomaly_mavg": 189.5061320169723,
+        "anomaly_timestamp": 1708768615,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.201.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 252.2267783333,
+        "anomaly_mavg": 185.73651610968585,
+        "anomaly_timestamp": 1708768596,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "103.126.52.180",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 390.0578533333,
+        "anomaly_mavg": 307.3493389449811,
+        "anomaly_timestamp": 1708768537,
+        "asn": "138466",
+        "as_name": "DataMossa",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "63.222.7.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 334.2112666667,
+        "anomaly_mavg": 174.59876631078956,
+        "anomaly_timestamp": 1708768522,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "41.221.208.94",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 266.953838,
+        "anomaly_mavg": 161.37697922063427,
+        "anomaly_timestamp": 1708768542,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.40.114",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 357.6273046667,
+        "anomaly_mavg": 274.98100872424436,
+        "anomaly_timestamp": 1708768512,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "202.46.184.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 397.3326893333,
+        "anomaly_mavg": 279.5323473782305,
+        "anomaly_timestamp": 1708768585,
+        "asn": "38064",
+        "as_name": "InternetNZ",
+        "country_code": "NZ"
+    },
+    {
+        "anomaly_source": "103.253.132.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 257.946858,
+        "anomaly_mavg": 171.6487239286265,
+        "anomaly_timestamp": 1708768554,
+        "asn": "59238",
+        "as_name": "Innovative Extremist Co., Ltd.",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "139.162.3.33",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 234.1866376667,
+        "anomaly_mavg": 151.5116774686462,
+        "anomaly_timestamp": 1708768576,
+        "asn": "63949",
+        "as_name": "Akamai Technologies, Inc.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "185.209.84.141",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 252.8267136667,
+        "anomaly_mavg": 197.8914380504516,
+        "anomaly_timestamp": 1708768665,
+        "asn": "57578",
+        "as_name": "Misaka Network, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "156.154.53.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 353.335496,
+        "anomaly_mavg": 137.69953163661222,
+        "anomaly_timestamp": 1708768689,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "156.154.183.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 272.9221296667,
+        "anomaly_mavg": 170.07101266749726,
+        "anomaly_timestamp": 1708768573,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.188.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 236.6861483333,
+        "anomaly_mavg": 153.80700037036908,
+        "anomaly_timestamp": 1708768618,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.189.7",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 228.4683603333,
+        "anomaly_mavg": 146.00899130020983,
+        "anomaly_timestamp": 1708768575,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "45.11.104.146",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 274.1446633333,
+        "anomaly_mavg": 178.1760290670881,
+        "anomaly_timestamp": 1708768723,
+        "asn": "57695",
+        "as_name": "Misaka Network, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 217.593514,
+        "anomaly_mavg": 157.6977693442262,
+        "anomaly_timestamp": 1708768599,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.116.125.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 311.4940906667,
+        "anomaly_mavg": 146.20001718138258,
+        "anomaly_timestamp": 1708768701,
+        "asn": "23947",
+        "as_name": "PT.Mora Telematika Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 402.5600783333,
+        "anomaly_mavg": 258.9264562675829,
+        "anomaly_timestamp": 1708768535,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 307.062788,
+        "anomaly_mavg": 192.83322214128526,
+        "anomaly_timestamp": 1708768578,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "123.176.1.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 257.5892085,
+        "anomaly_mavg": 192.00622085801984,
+        "anomaly_timestamp": 1708768500,
+        "asn": "7642",
+        "as_name": "Dhiraagu Pvt.Ltd.",
+        "country_code": "MV"
+    },
+    {
+        "anomaly_source": "103.148.239.134",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 232.81956,
+        "anomaly_mavg": 160.30146094673154,
+        "anomaly_timestamp": 1708768576,
+        "asn": "132337",
+        "as_name": "AXCLUSIVE PTE. LTD.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "63.222.248.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 278.5186143333,
+        "anomaly_mavg": 172.43353951581662,
+        "anomaly_timestamp": 1708768666,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "102.219.127.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 351.7498443333,
+        "anomaly_mavg": 185.37058205243005,
+        "anomaly_timestamp": 1708768575,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 362.200659,
+        "anomaly_mavg": 281.843232368298,
+        "anomaly_timestamp": 1708768702,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "103.225.148.38",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 326.4265173333,
+        "anomaly_mavg": 161.09645883071477,
+        "anomaly_timestamp": 1708768546,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.225.148.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.3246603333,
+        "anomaly_mavg": 174.89979957437623,
+        "anomaly_timestamp": 1708768601,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.133.238.187",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 412.0038553333,
+        "anomaly_mavg": 279.14239466272204,
+        "anomaly_timestamp": 1708768588,
+        "asn": "132808",
+        "as_name": "IP Telco",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "38.47.189.189",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 243.9821883333,
+        "anomaly_mavg": 160.59597839374294,
+        "anomaly_timestamp": 1708768588,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.84.153.114",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 241.462495,
+        "anomaly_mavg": 191.77163329877936,
+        "anomaly_timestamp": 1708768679,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "45.76.126.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 400.6741563333,
+        "anomaly_mavg": 329.48983730163275,
+        "anomaly_timestamp": 1708768723,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "139.180.132.31",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 313.912131,
+        "anomaly_mavg": 213.66691458319553,
+        "anomaly_timestamp": 1708768671,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.242.74.185",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 259.69981,
+        "anomaly_mavg": 191.65786067082587,
+        "anomaly_timestamp": 1708768679,
+        "asn": "41095",
+        "as_name": "IPTP LTD",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "152.195.196.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 229.467897,
+        "anomaly_mavg": 179.43137562183534,
+        "anomaly_timestamp": 1708768683,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.175.175.206",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 246.021964,
+        "anomaly_mavg": 144.2037567904539,
+        "anomaly_timestamp": 1708768685,
+        "asn": "24482",
+        "as_name": "SG.GS",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.77.105.3",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 252.1958606667,
+        "anomaly_mavg": 195.86295257764993,
+        "anomaly_timestamp": 1708768743,
+        "asn": "133800",
+        "as_name": "PT Biznet Gio Nusantara",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "139.99.219.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 432.999867,
+        "anomaly_mavg": 337.60361566202016,
+        "anomaly_timestamp": 1708768739,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "63.222.7.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 335.801952,
+        "anomaly_mavg": 238.44376645315373,
+        "anomaly_timestamp": 1708768739,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "41.221.208.94",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 266.843056,
+        "anomaly_mavg": 203.60772273238058,
+        "anomaly_timestamp": 1708768756,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 233.004077,
+        "anomaly_mavg": 131.45478421346746,
+        "anomaly_timestamp": 1708768702,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "103.253.132.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 258.066167,
+        "anomaly_mavg": 206.1679775571759,
+        "anomaly_timestamp": 1708768754,
+        "asn": "59238",
+        "as_name": "Innovative Extremist Co., Ltd.",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "139.162.3.33",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 234.227828,
+        "anomaly_mavg": 184.58166154786772,
+        "anomaly_timestamp": 1708768752,
+        "asn": "63949",
+        "as_name": "Akamai Technologies, Inc.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "156.154.183.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 273.696526,
+        "anomaly_mavg": 211.21145946717837,
+        "anomaly_timestamp": 1708768705,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.188.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 236.5625406667,
+        "anomaly_mavg": 186.95865955554143,
+        "anomaly_timestamp": 1708768748,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.148.239.134",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 254.550337,
+        "anomaly_mavg": 189.30870056803894,
+        "anomaly_timestamp": 1708768765,
+        "asn": "132337",
+        "as_name": "AXCLUSIVE PTE. LTD.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.225.148.38",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 326.5461766667,
+        "anomaly_mavg": 227.2284822317489,
+        "anomaly_timestamp": 1708768723,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.225.148.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.3701986667,
+        "anomaly_mavg": 241.06974387794577,
+        "anomaly_timestamp": 1708768712,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.133.238.187",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 412.026915,
+        "anomaly_mavg": 332.28697893095324,
+        "anomaly_timestamp": 1708768745,
+        "asn": "132808",
+        "as_name": "IP Telco",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "146.185.214.58",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.2594156667,
+        "anomaly_mavg": 245.20263900264825,
+        "anomaly_timestamp": 1708791144,
+        "asn": "202422",
+        "as_name": "G-Core Labs S.A.",
+        "country_code": "LU"
+    },
+    {
+        "anomaly_source": "197.80.104.36",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 232.4521713333,
+        "anomaly_mavg": 186.8347222111133,
+        "anomaly_timestamp": 1708791003,
+        "asn": "10474",
+        "as_name": "Dimension Data",
+        "country_code": "ZA"
+    },
+    {
+        "anomaly_source": "27.131.108.126",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 359.7432153333,
+        "anomaly_mavg": 291.19131945373965,
+        "anomaly_timestamp": 1708802842,
+        "asn": "38880",
+        "as_name": "Micron21 Datacentre Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 406.5479703333,
+        "anomaly_mavg": 295.03715097793236,
+        "anomaly_timestamp": 1708802900,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 388.183194,
+        "anomaly_mavg": 235.5658687881521,
+        "anomaly_timestamp": 1708802726,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.129.64.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 296.699657,
+        "anomaly_mavg": 161.64718571558237,
+        "anomaly_timestamp": 1708802814,
+        "asn": "396507",
+        "as_name": "Emerald Onion",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 385.45767,
+        "anomaly_mavg": 238.45464066131987,
+        "anomaly_timestamp": 1708802816,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 426.329795,
+        "anomaly_mavg": 329.9780712169206,
+        "anomaly_timestamp": 1708802859,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "202.70.133.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 237.5985036667,
+        "anomaly_mavg": 155.88368400818257,
+        "anomaly_timestamp": 1708768970,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.147.52.54",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 230.5393563333,
+        "anomaly_mavg": 145.4267194686182,
+        "anomaly_timestamp": 1708768844,
+        "asn": "139949",
+        "as_name": "PT. Bintang Kejora Teknologi",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 693.8349205,
+        "anomaly_mavg": 122.90965983515031,
+        "anomaly_timestamp": 1708768893,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "37.10.41.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 276.623337,
+        "anomaly_mavg": 206.1014244510909,
+        "anomaly_timestamp": 1708768888,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "101.53.31.6",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 280.1834926667,
+        "anomaly_mavg": 212.41255088541163,
+        "anomaly_timestamp": 1708768969,
+        "asn": "24173",
+        "as_name": "Branch of Netnam Company in Ho Chi Minh City",
+        "country_code": "VN"
+    },
+    {
+        "anomaly_source": "81.211.197.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 239.9964443333,
+        "anomaly_mavg": 199.9671717377977,
+        "anomaly_timestamp": 1708768860,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "202.46.184.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 402.6406326667,
+        "anomaly_mavg": 326.65248416025827,
+        "anomaly_timestamp": 1708768807,
+        "asn": "38064",
+        "as_name": "InternetNZ",
+        "country_code": "NZ"
+    },
+    {
+        "anomaly_source": "156.154.53.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.1030806667,
+        "anomaly_mavg": 223.9539173819673,
+        "anomaly_timestamp": 1708768967,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "63.222.189.7",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 228.9091106667,
+        "anomaly_mavg": 178.99273891344592,
+        "anomaly_timestamp": 1708768817,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "45.11.104.146",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 276.1070013333,
+        "anomaly_mavg": 216.56348277357287,
+        "anomaly_timestamp": 1708768905,
+        "asn": "57695",
+        "as_name": "Misaka Network, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 221.174972,
+        "anomaly_mavg": 181.65606720653574,
+        "anomaly_timestamp": 1708768818,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.116.125.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 311.5313683333,
+        "anomaly_mavg": 212.31764657550957,
+        "anomaly_timestamp": 1708768860,
+        "asn": "23947",
+        "as_name": "PT.Mora Telematika Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "63.222.248.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 278.8177436667,
+        "anomaly_mavg": 214.86756944280995,
+        "anomaly_timestamp": 1708768875,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "102.219.127.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 351.5353683333,
+        "anomaly_mavg": 251.92228696477804,
+        "anomaly_timestamp": 1708768819,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "103.147.52.54",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 230.6828353333,
+        "anomaly_mavg": 179.4717742144909,
+        "anomaly_timestamp": 1708768844,
+        "asn": "139949",
+        "as_name": "PT. Bintang Kejora Teknologi",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "38.47.189.189",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 244.15451,
+        "anomaly_mavg": 193.95046236956577,
+        "anomaly_timestamp": 1708768890,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 722.173823,
+        "anomaly_mavg": 351.27976410109017,
+        "anomaly_timestamp": 1708769084,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "139.180.132.31",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 314.117949,
+        "anomaly_mavg": 253.7650011499173,
+        "anomaly_timestamp": 1708768900,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "37.10.41.14",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 290.2242193333,
+        "anomaly_mavg": 234.31018947065456,
+        "anomaly_timestamp": 1708768986,
+        "asn": "202196",
+        "as_name": "Booking.com BV",
+        "country_code": "NL"
+    },
+    {
+        "anomaly_source": "203.175.175.206",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 246.1094223333,
+        "anomaly_mavg": 184.93103967427234,
+        "anomaly_timestamp": 1708768893,
+        "asn": "24482",
+        "as_name": "SG.GS",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "180.149.98.146",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 210.2645036667,
+        "anomaly_mavg": 144.12171423149218,
+        "anomaly_timestamp": 1708769016,
+        "asn": "45204",
+        "as_name": "Gemnet",
+        "country_code": "MN"
+    },
+    {
+        "anomaly_source": "63.222.7.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 335.887995,
+        "anomaly_mavg": 277.38704067189224,
+        "anomaly_timestamp": 1708768931,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 233.602588,
+        "anomaly_mavg": 172.0745013280805,
+        "anomaly_timestamp": 1708768935,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "103.116.125.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 311.5258013333,
+        "anomaly_mavg": 252.00313527862573,
+        "anomaly_timestamp": 1708769079,
+        "asn": "23947",
+        "as_name": "PT.Mora Telematika Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "102.219.127.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 351.68157,
+        "anomaly_mavg": 291.7675195121868,
+        "anomaly_timestamp": 1708768949,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "103.225.148.38",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 326.475792,
+        "anomaly_mavg": 266.95556000572935,
+        "anomaly_timestamp": 1708768918,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.225.148.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.4314516667,
+        "anomaly_mavg": 280.7899257934474,
+        "anomaly_timestamp": 1708769058,
+        "asn": "45701",
+        "as_name": "Internet Madju Abad Millenindo",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "202.70.133.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 238.205649,
+        "anomaly_mavg": 188.56961187158953,
+        "anomaly_timestamp": 1708769177,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "156.154.53.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 341.6976516667,
+        "anomaly_mavg": 272.4135826958604,
+        "anomaly_timestamp": 1708769147,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "180.149.98.146",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 211.2728686667,
+        "anomaly_mavg": 170.5788300055753,
+        "anomaly_timestamp": 1708769305,
+        "asn": "45204",
+        "as_name": "Gemnet",
+        "country_code": "MN"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 258.448551,
+        "anomaly_mavg": 211.53434213142896,
+        "anomaly_timestamp": 1708769380,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 151.6474156667,
+        "anomaly_mavg": 108.05618792201061,
+        "anomaly_timestamp": 1708769423,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 727.3429485,
+        "anomaly_mavg": 499.6373876606541,
+        "anomaly_timestamp": 1708769540,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "200.107.82.196",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 195.2961946667,
+        "anomaly_mavg": 161.05865986483872,
+        "anomaly_timestamp": 1708769647,
+        "asn": "263779",
+        "as_name": "Academia Nacional de Ciencias",
+        "country_code": "CR"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 278.3905036667,
+        "anomaly_mavg": 230.30002567885737,
+        "anomaly_timestamp": 1708769660,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 731.4775965,
+        "anomaly_mavg": 590.7196119963925,
+        "anomaly_timestamp": 1708769766,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 207.867482,
+        "anomaly_mavg": 160.57435870301316,
+        "anomaly_timestamp": 1708769855,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "216.171.184.239",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 131.9523096667,
+        "anomaly_mavg": 103.18317245027995,
+        "anomaly_timestamp": 1708770853,
+        "asn": "7828",
+        "as_name": "Northland Communications",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 394.768108,
+        "anomaly_mavg": 240.19162556730257,
+        "anomaly_timestamp": 1708771590,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 399.836356,
+        "anomaly_mavg": 217.32280274495287,
+        "anomaly_timestamp": 1708771575,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 374.3480615,
+        "anomaly_mavg": 191.9536271323555,
+        "anomaly_timestamp": 1708771566,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.3055773333,
+        "anomaly_mavg": 146.53012709112605,
+        "anomaly_timestamp": 1708771514,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 375.7401256667,
+        "anomaly_mavg": 193.05226374331778,
+        "anomaly_timestamp": 1708771545,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 424.851121,
+        "anomaly_mavg": 233.03716059293038,
+        "anomaly_timestamp": 1708771516,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 329.093611,
+        "anomaly_mavg": 226.0403071879956,
+        "anomaly_timestamp": 1708771751,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 301.6748963333,
+        "anomaly_mavg": 233.1635881634677,
+        "anomaly_timestamp": 1708772299,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "200.107.82.196",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 198.1462763333,
+        "anomaly_mavg": 160.00195451906987,
+        "anomaly_timestamp": 1708772533,
+        "asn": "263779",
+        "as_name": "Academia Nacional de Ciencias",
+        "country_code": "CR"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 688.115264,
+        "anomaly_mavg": 253.2492116079648,
+        "anomaly_timestamp": 1708772566,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "94.247.111.19",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 130.0012863333,
+        "anomaly_mavg": 104.88289268027236,
+        "anomaly_timestamp": 1708772533,
+        "asn": "49673",
+        "as_name": "Truenetwork LLC",
+        "country_code": "RU"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 680.6404495,
+        "anomaly_mavg": 427.19563256477886,
+        "anomaly_timestamp": 1708772806,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 727.282674,
+        "anomaly_mavg": 528.5735593388674,
+        "anomaly_timestamp": 1708773010,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 329.7011006667,
+        "anomaly_mavg": 255.71317509875786,
+        "anomaly_timestamp": 1708774410,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "139.99.78.22",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 315.890597,
+        "anomaly_mavg": 240.05766109193794,
+        "anomaly_timestamp": 1708774721,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "45.76.126.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 359.847975,
+        "anomaly_mavg": 282.1416243140513,
+        "anomaly_timestamp": 1708774893,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 414.252254,
+        "anomaly_mavg": 170.15854367830144,
+        "anomaly_timestamp": 1708775167,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 137.4625503333,
+        "anomaly_mavg": 107.78476577179549,
+        "anomaly_timestamp": 1708775363,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "196.49.5.98",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 699.194808,
+        "anomaly_mavg": 267.7960278069809,
+        "anomaly_timestamp": 1708775491,
+        "asn": "327844",
+        "as_name": "TISPA - Tanzania Internet Service Providers Association",
+        "country_code": "TZ"
+    },
+    {
+        "anomaly_source": "103.143.136.43",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 429.832542,
+        "anomaly_mavg": 262.4982298186739,
+        "anomaly_timestamp": 1708775878,
+        "asn": "63781",
+        "as_name": "Kobayashi Family Net LLP",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "200.1.122.55",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 409.9028365,
+        "anomaly_mavg": 233.0548795997354,
+        "anomaly_timestamp": 1708776085,
+        "asn": "27678",
+        "as_name": "NIC Chile",
+        "country_code": "CL"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 312.8585483333,
+        "anomaly_mavg": 232.05170870412343,
+        "anomaly_timestamp": 1708776123,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "148.163.223.233",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 353.667578,
+        "anomaly_mavg": 230.5885638549747,
+        "anomaly_timestamp": 1708776094,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 320.1274385,
+        "anomaly_mavg": 218.46683991843273,
+        "anomaly_timestamp": 1708776081,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "170.81.100.114",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 570.190678,
+        "anomaly_mavg": 197.61325025852057,
+        "anomaly_timestamp": 1708776117,
+        "asn": "266413",
+        "as_name": "Viva Tecnologia Telecom",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "203.123.48.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 228.493178,
+        "anomaly_mavg": 156.49460112516726,
+        "anomaly_timestamp": 1708776841,
+        "asn": "37989",
+        "as_name": "eSys Technologies Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "203.123.48.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 228.5444793333,
+        "anomaly_mavg": 185.29403187510036,
+        "anomaly_timestamp": 1708777083,
+        "asn": "37989",
+        "as_name": "eSys Technologies Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 273.5298166667,
+        "anomaly_mavg": 218.63415406991413,
+        "anomaly_timestamp": 1708777278,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "63.222.191.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 434.971984,
+        "anomaly_mavg": 339.59862210086294,
+        "anomaly_timestamp": 1708777351,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "5.199.167.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 236.0091006667,
+        "anomaly_mavg": 164.66784720203233,
+        "anomaly_timestamp": 1708777760,
+        "asn": "216444",
+        "as_name": "UAB Cherry Servers",
+        "country_code": "LT"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 293.5176446667,
+        "anomaly_mavg": 223.19653439911428,
+        "anomaly_timestamp": 1708778052,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "23.129.64.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 196.846472,
+        "anomaly_mavg": 160.02767543683848,
+        "anomaly_timestamp": 1708778028,
+        "asn": "396507",
+        "as_name": "Emerald Onion",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "5.199.167.27",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 244.4953546667,
+        "anomaly_mavg": 193.2043485878994,
+        "anomaly_timestamp": 1708778004,
+        "asn": "216444",
+        "as_name": "UAB Cherry Servers",
+        "country_code": "LT"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 402.728539,
+        "anomaly_mavg": 217.68434044786036,
+        "anomaly_timestamp": 1708778264,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 384.199243,
+        "anomaly_mavg": 191.95971918732465,
+        "anomaly_timestamp": 1708778263,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 411.5777523333,
+        "anomaly_mavg": 231.949160913984,
+        "anomaly_timestamp": 1708778322,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 291.0876106667,
+        "anomaly_mavg": 232.7883296755255,
+        "anomaly_timestamp": 1708778707,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "182.18.209.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 477.7686943333,
+        "anomaly_mavg": 192.0904535385472,
+        "anomaly_timestamp": 1708804373,
+        "asn": "23944",
+        "as_name": "Sky Cable Corporation",
+        "country_code": "PH"
+    },
+    {
+        "anomaly_source": "23.168.145.10",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 232.223303,
+        "anomaly_mavg": 169.0901332477268,
+        "anomaly_timestamp": 1708779004,
+        "asn": "398960",
+        "as_name": "Cryoflesh Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.15.246.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 316.3810363333,
+        "anomaly_mavg": 250.13246070987717,
+        "anomaly_timestamp": 1708779202,
+        "asn": "58717",
+        "as_name": "Summit Communication Limited",
+        "country_code": "BD"
+    },
+    {
+        "anomaly_source": "94.247.111.19",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 134.9247973333,
+        "anomaly_mavg": 105.2314461742155,
+        "anomaly_timestamp": 1708779448,
+        "asn": "49673",
+        "as_name": "Truenetwork LLC",
+        "country_code": "RU"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 399.7453723333,
+        "anomaly_mavg": 316.7236180514801,
+        "anomaly_timestamp": 1708780196,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "196.6.220.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 233.092082,
+        "anomaly_mavg": 189.82709215431186,
+        "anomaly_timestamp": 1708780952,
+        "asn": "37578",
+        "as_name": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "country_code": "KE"
+    },
+    {
+        "anomaly_source": "200.107.82.196",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 195.5618333333,
+        "anomaly_mavg": 162.16238972169472,
+        "anomaly_timestamp": 1708781643,
+        "asn": "263779",
+        "as_name": "Academia Nacional de Ciencias",
+        "country_code": "CR"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 481.7197236667,
+        "anomaly_mavg": 356.326098775458,
+        "anomaly_timestamp": 1708781681,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 410.467699,
+        "anomaly_mavg": 238.55271273532236,
+        "anomaly_timestamp": 1708782613,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 323.014946,
+        "anomaly_mavg": 217.23659890115664,
+        "anomaly_timestamp": 1708782609,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 350.7787723333,
+        "anomaly_mavg": 192.02258718043913,
+        "anomaly_timestamp": 1708782612,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 430.3014443333,
+        "anomaly_mavg": 307.3187072411934,
+        "anomaly_timestamp": 1708782850,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 391.5347676667,
+        "anomaly_mavg": 259.547937740694,
+        "anomaly_timestamp": 1708782844,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 364.184823,
+        "anomaly_mavg": 255.5250612415835,
+        "anomaly_timestamp": 1708782793,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 374.526532,
+        "anomaly_mavg": 259.60015450676565,
+        "anomaly_timestamp": 1708782829,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 428.555772,
+        "anomaly_mavg": 310.1927380804224,
+        "anomaly_timestamp": 1708782788,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 359.7451423333,
+        "anomaly_mavg": 192.836829289076,
+        "anomaly_timestamp": 1708782592,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 426.7141203333,
+        "anomaly_mavg": 232.51181657850395,
+        "anomaly_timestamp": 1708782593,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "45.5.10.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 168.8401083333,
+        "anomaly_mavg": 131.7360051739387,
+        "anomaly_timestamp": 1708783048,
+        "asn": "265695",
+        "as_name": "ELIAS COMUNICACIONES, SRL",
+        "country_code": "DO"
+    },
+    {
+        "anomaly_source": "103.41.247.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 469.4975153333,
+        "anomaly_mavg": 243.50707857214942,
+        "anomaly_timestamp": 1708783319,
+        "asn": "133802",
+        "as_name": "Universitas Pasundan Bandung",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 185.788022,
+        "anomaly_mavg": 139.254105827157,
+        "anomaly_timestamp": 1708783295,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 216.4029296667,
+        "anomaly_mavg": 157.8676722962942,
+        "anomaly_timestamp": 1708783549,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 232.9724346667,
+        "anomaly_mavg": 181.28177524445653,
+        "anomaly_timestamp": 1708783757,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 417.4741043333,
+        "anomaly_mavg": 254.0430159215986,
+        "anomaly_timestamp": 1708784174,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 398.1387226667,
+        "anomaly_mavg": 230.2405248009581,
+        "anomaly_timestamp": 1708784204,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "192.30.89.87",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 186.0772046667,
+        "anomaly_mavg": 152.01773877206756,
+        "anomaly_timestamp": 1708784161,
+        "asn": "394256",
+        "as_name": "Tech Futures Interactive Inc.",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 342.2633036667,
+        "anomaly_mavg": 274.2341282170422,
+        "anomaly_timestamp": 1708784260,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 364.742054,
+        "anomaly_mavg": 206.07014253258745,
+        "anomaly_timestamp": 1708784078,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 415.963241,
+        "anomaly_mavg": 248.18474165788373,
+        "anomaly_timestamp": 1708784084,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "170.39.225.183",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 273.2139833333,
+        "anomaly_mavg": 124.04037665924754,
+        "anomaly_timestamp": 1708784745,
+        "asn": "57695",
+        "as_name": "Misaka Network, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 221.329303,
+        "anomaly_mavg": 151.92428636819477,
+        "anomaly_timestamp": 1708786006,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "139.99.219.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 447.0195616667,
+        "anomaly_mavg": 317.404410461308,
+        "anomaly_timestamp": 1708786887,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "202.46.184.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 441.1876246667,
+        "anomaly_mavg": 310.1125923337602,
+        "anomaly_timestamp": 1708786871,
+        "asn": "38064",
+        "as_name": "InternetNZ",
+        "country_code": "NZ"
+    },
+    {
+        "anomaly_source": "63.222.191.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 437.521708,
+        "anomaly_mavg": 339.7029678496814,
+        "anomaly_timestamp": 1708786871,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 396.4413033333,
+        "anomaly_mavg": 287.347431814289,
+        "anomaly_timestamp": 1708786877,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 321.353755,
+        "anomaly_mavg": 233.73254890102572,
+        "anomaly_timestamp": 1708786942,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "45.76.126.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 437.6412036667,
+        "anomaly_mavg": 324.32409671804874,
+        "anomaly_timestamp": 1708787438,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.0383803333,
+        "anomaly_mavg": 111.53351178407053,
+        "anomaly_timestamp": 1708787409,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 395.400034,
+        "anomaly_mavg": 317.752225586456,
+        "anomaly_timestamp": 1708787381,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "204.15.11.34",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 1197.6433916667,
+        "anomaly_mavg": 155.31199145123196,
+        "anomaly_timestamp": 1708787852,
+        "asn": "13331",
+        "as_name": "MetaPeer",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.168.145.10",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 202.1980646667,
+        "anomaly_mavg": 167.0192452139262,
+        "anomaly_timestamp": 1708788604,
+        "asn": "398960",
+        "as_name": "Cryoflesh Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "102.130.66.11",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 180.3446333333,
+        "anomaly_mavg": 147.29168303859856,
+        "anomaly_timestamp": 1708788573,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "170.238.235.214",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 238.914422,
+        "anomaly_mavg": 193.61267383713238,
+        "anomaly_timestamp": 1708788582,
+        "asn": "37468",
+        "as_name": "Angola Cables",
+        "country_code": "AO"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 325.405037,
+        "anomaly_mavg": 217.48499838121387,
+        "anomaly_timestamp": 1708789313,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 373.192805,
+        "anomaly_mavg": 192.0345201199297,
+        "anomaly_timestamp": 1708789263,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 372.6766815,
+        "anomaly_mavg": 192.89681954500168,
+        "anomaly_timestamp": 1708789298,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 286.9285513333,
+        "anomaly_mavg": 234.47083101048358,
+        "anomaly_timestamp": 1708790729,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "197.80.104.36",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 254.1149825,
+        "anomaly_mavg": 189.83188485507418,
+        "anomaly_timestamp": 1708791958,
+        "asn": "10474",
+        "as_name": "Dimension Data",
+        "country_code": "ZA"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 425.1622906667,
+        "anomaly_mavg": 330.53699193887724,
+        "anomaly_timestamp": 1708792184,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "202.46.184.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 446.537124,
+        "anomaly_mavg": 349.2025503215623,
+        "anomaly_timestamp": 1708792277,
+        "asn": "38064",
+        "as_name": "InternetNZ",
+        "country_code": "NZ"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.9027705,
+        "anomaly_mavg": 111.51154143667343,
+        "anomaly_timestamp": 1708792247,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 282.3003026667,
+        "anomaly_mavg": 232.93828312113152,
+        "anomaly_timestamp": 1708792935,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 313.2006483333,
+        "anomaly_mavg": 221.86349741653373,
+        "anomaly_timestamp": 1708793115,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.162245,
+        "anomaly_mavg": 123.42631796055764,
+        "anomaly_timestamp": 1708793390,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.083355,
+        "anomaly_mavg": 210.1206887763346,
+        "anomaly_timestamp": 1708793681,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.864853,
+        "anomaly_mavg": 201.83018102616046,
+        "anomaly_timestamp": 1708794215,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "197.80.104.36",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 226.2490096667,
+        "anomaly_mavg": 183.74045736166573,
+        "anomaly_timestamp": 1708794416,
+        "asn": "10474",
+        "as_name": "Dimension Data",
+        "country_code": "ZA"
+    },
+    {
+        "anomaly_source": "182.18.209.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 541.7209736667,
+        "anomaly_mavg": 192.14403153794495,
+        "anomaly_timestamp": 1708803785,
+        "asn": "23944",
+        "as_name": "Sky Cable Corporation",
+        "country_code": "PH"
+    },
+    {
+        "anomaly_source": "89.213.179.65",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 330.7443236667,
+        "anomaly_mavg": 237.00343471989441,
+        "anomaly_timestamp": 1708803754,
+        "asn": "32167",
+        "as_name": "LSHIY LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.147.52.54",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 322.0969266667,
+        "anomaly_mavg": 230.64132180822935,
+        "anomaly_timestamp": 1708803795,
+        "asn": "139949",
+        "as_name": "PT. Bintang Kejora Teknologi",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.147.52.54",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 321.948173,
+        "anomaly_mavg": 267.2235637516176,
+        "anomaly_timestamp": 1708803795,
+        "asn": "139949",
+        "as_name": "PT. Bintang Kejora Teknologi",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.113.176.82",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 271.7072986667,
+        "anomaly_mavg": 219.42796410564645,
+        "anomaly_timestamp": 1708803602,
+        "asn": "137566",
+        "as_name": "Supernap Thailand Company Limited",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 386.2813606667,
+        "anomaly_mavg": 243.93857693953237,
+        "anomaly_timestamp": 1708803736,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 367.638656,
+        "anomaly_mavg": 214.69245938854453,
+        "anomaly_timestamp": 1708803746,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.76866,
+        "anomaly_mavg": 163.95181222697065,
+        "anomaly_timestamp": 1708794816,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.752838,
+        "anomaly_mavg": 234.27855133618237,
+        "anomaly_timestamp": 1708795055,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 287.1829546667,
+        "anomaly_mavg": 232.44737262288683,
+        "anomaly_timestamp": 1708795039,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.8305285,
+        "anomaly_mavg": 210.43665586770564,
+        "anomaly_timestamp": 1708795594,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.893404,
+        "anomaly_mavg": 262.5942049206234,
+        "anomaly_timestamp": 1708795798,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 455.401766,
+        "anomaly_mavg": 234.61276547984139,
+        "anomaly_timestamp": 1708796002,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 409.4555335,
+        "anomaly_mavg": 217.5082934277131,
+        "anomaly_timestamp": 1708795992,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 378.621778,
+        "anomaly_mavg": 192.11641924115182,
+        "anomaly_timestamp": 1708796003,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 428.8012656667,
+        "anomaly_mavg": 236.95937521779624,
+        "anomaly_timestamp": 1708795997,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "79.110.170.42",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 628.552069,
+        "anomaly_mavg": 151.8741445931014,
+        "anomaly_timestamp": 1708796281,
+        "asn": "208590",
+        "as_name": "Lasagna Ltd",
+        "country_code": "GB"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 141.4939193333,
+        "anomaly_mavg": 108.33420522081461,
+        "anomaly_timestamp": 1708796736,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "81.211.198.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 453.6525803333,
+        "anomaly_mavg": 262.3070157512559,
+        "anomaly_timestamp": 1708796743,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.202.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 474.2716686667,
+        "anomaly_mavg": 260.42718137252007,
+        "anomaly_timestamp": 1708796794,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.198.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 882.939876,
+        "anomaly_mavg": 338.84524158407356,
+        "anomaly_timestamp": 1708796899,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "81.211.202.45",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 937.917836,
+        "anomaly_mavg": 345.96497629019206,
+        "anomaly_timestamp": 1708796943,
+        "asn": "48503",
+        "as_name": "Mobile Telecom-Service LLP",
+        "country_code": "KZ"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 307.8297076667,
+        "anomaly_mavg": 249.50295958181647,
+        "anomaly_timestamp": 1708797045,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 439.12017,
+        "anomaly_mavg": 314.16421727478144,
+        "anomaly_timestamp": 1708797077,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 171.498662,
+        "anomaly_mavg": 136.36877137189563,
+        "anomaly_timestamp": 1708797264,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 463.706852,
+        "anomaly_mavg": 364.14659836486885,
+        "anomaly_timestamp": 1708797309,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 340.022632,
+        "anomaly_mavg": 125.65148059994492,
+        "anomaly_timestamp": 1708797480,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 445.8744985,
+        "anomaly_mavg": 231.7481037127406,
+        "anomaly_timestamp": 1708797446,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "197.80.104.36",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 253.7827583333,
+        "anomaly_mavg": 202.77650757649656,
+        "anomaly_timestamp": 1708797620,
+        "asn": "10474",
+        "as_name": "Dimension Data",
+        "country_code": "ZA"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 443.4997523333,
+        "anomaly_mavg": 317.3986616276444,
+        "anomaly_timestamp": 1708797682,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 339.894483,
+        "anomaly_mavg": 171.35376976266016,
+        "anomaly_timestamp": 1708797953,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "103.41.247.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 418.701663,
+        "anomaly_mavg": 243.6387714025012,
+        "anomaly_timestamp": 1708798191,
+        "asn": "133802",
+        "as_name": "Universitas Pasundan Bandung",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "123.176.1.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 394.3524716667,
+        "anomaly_mavg": 257.23977481982337,
+        "anomaly_timestamp": 1708798174,
+        "asn": "7642",
+        "as_name": "Dhiraagu Pvt.Ltd.",
+        "country_code": "MV"
+    },
+    {
+        "anomaly_source": "203.123.48.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 318.8770153333,
+        "anomaly_mavg": 228.80661797294664,
+        "anomaly_timestamp": 1708798193,
+        "asn": "37989",
+        "as_name": "eSys Technologies Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 322.9001305,
+        "anomaly_mavg": 223.91694493803345,
+        "anomaly_timestamp": 1708798169,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "180.211.88.22",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 301.7354086667,
+        "anomaly_mavg": 170.44761112555503,
+        "anomaly_timestamp": 1708798166,
+        "asn": "45725",
+        "as_name": "Kings Network Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "117.250.113.140",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 348.388947,
+        "anomaly_mavg": 213.17772207345467,
+        "anomaly_timestamp": 1708798166,
+        "asn": "9829",
+        "as_name": "Bharat Sanchar Nigam Ltd",
+        "country_code": "IN"
+    },
+    {
+        "anomaly_source": "103.253.132.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.434713,
+        "anomaly_mavg": 255.4226572173082,
+        "anomaly_timestamp": 1708798223,
+        "asn": "59238",
+        "as_name": "Innovative Extremist Co., Ltd.",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "103.113.176.82",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 294.597436,
+        "anomaly_mavg": 183.74309377471337,
+        "anomaly_timestamp": 1708798228,
+        "asn": "137566",
+        "as_name": "Supernap Thailand Company Limited",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "103.41.247.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 418.6946346667,
+        "anomaly_mavg": 313.66392804150075,
+        "anomaly_timestamp": 1708798424,
+        "asn": "133802",
+        "as_name": "Universitas Pasundan Bandung",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "94.207.43.2",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 229.9516953333,
+        "anomaly_mavg": 187.88686836787764,
+        "anomaly_timestamp": 1708798425,
+        "asn": "57187",
+        "as_name": "Emirates Integrated Telecommunications Company PJSC",
+        "country_code": "AE"
+    },
+    {
+        "anomaly_source": "123.176.1.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 388.8070743333,
+        "anomaly_mavg": 312.084853558574,
+        "anomaly_timestamp": 1708798459,
+        "asn": "7642",
+        "as_name": "Dhiraagu Pvt.Ltd.",
+        "country_code": "MV"
+    },
+    {
+        "anomaly_source": "103.113.176.82",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 294.942451,
+        "anomaly_mavg": 228.08483066482802,
+        "anomaly_timestamp": 1708798435,
+        "asn": "137566",
+        "as_name": "Supernap Thailand Company Limited",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "203.123.48.20",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 319.0378036667,
+        "anomaly_mavg": 264.834776917088,
+        "anomaly_timestamp": 1708798430,
+        "asn": "37989",
+        "as_name": "eSys Technologies Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 331.946891,
+        "anomaly_mavg": 263.51021916282,
+        "anomaly_timestamp": 1708798430,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "180.211.88.22",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 297.9759086667,
+        "anomaly_mavg": 222.96273014201302,
+        "anomaly_timestamp": 1708798422,
+        "asn": "45725",
+        "as_name": "Kings Network Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "117.250.113.140",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 345.5150143333,
+        "anomaly_mavg": 267.2622120440728,
+        "anomaly_timestamp": 1708798430,
+        "asn": "9829",
+        "as_name": "Bharat Sanchar Nigam Ltd",
+        "country_code": "IN"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 314.5078276667,
+        "anomaly_mavg": 233.6360814193858,
+        "anomaly_timestamp": 1708798710,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.36.205.46",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 360.6340593333,
+        "anomaly_mavg": 256.1301391296439,
+        "anomaly_timestamp": 1708798942,
+        "asn": "138322",
+        "as_name": "Afghan Wireless Communication Company",
+        "country_code": "AF"
+    },
+    {
+        "anomaly_source": "45.5.10.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 193.5121386667,
+        "anomaly_mavg": 131.7526437471638,
+        "anomaly_timestamp": 1708799371,
+        "asn": "265695",
+        "as_name": "ELIAS COMUNICACIONES, SRL",
+        "country_code": "DO"
+    },
+    {
+        "anomaly_source": "196.49.15.189",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 215.1000156667,
+        "anomaly_mavg": 176.1479083249078,
+        "anomaly_timestamp": 1708799869,
+        "asn": "328998",
+        "as_name": "Uganda Internet eXchange Point",
+        "country_code": "UG"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 179.7285863333,
+        "anomaly_mavg": 139.19459415242633,
+        "anomaly_timestamp": 1708800869,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 146.340203,
+        "anomaly_mavg": 108.32108194278027,
+        "anomaly_timestamp": 1708801276,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "206.162.189.131",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 162.0956456667,
+        "anomaly_mavg": 106.49617930284698,
+        "anomaly_timestamp": 1708801278,
+        "asn": "852",
+        "as_name": "TELUS Communications Inc.",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "103.41.247.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 435.351919,
+        "anomaly_mavg": 280.1640081623753,
+        "anomaly_timestamp": 1708801309,
+        "asn": "133802",
+        "as_name": "Universitas Pasundan Bandung",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 282.6586076667,
+        "anomaly_mavg": 233.01174248046885,
+        "anomaly_timestamp": 1708801342,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "197.80.104.36",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 277.9288496667,
+        "anomaly_mavg": 201.68138670120948,
+        "anomaly_timestamp": 1708801616,
+        "asn": "10474",
+        "as_name": "Dimension Data",
+        "country_code": "ZA"
+    },
+    {
+        "anomaly_source": "129.122.18.18",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 218.2549286667,
+        "anomaly_mavg": 131.49746779283242,
+        "anomaly_timestamp": 1708801523,
+        "asn": "327947",
+        "as_name": "Kwame Nkrumah University of Science and Technology",
+        "country_code": "GH"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 421.584694,
+        "anomaly_mavg": 237.92579561799295,
+        "anomaly_timestamp": 1708802350,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 411.218738,
+        "anomaly_mavg": 217.58275962988722,
+        "anomaly_timestamp": 1708802295,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 373.086937,
+        "anomaly_mavg": 192.05254159675587,
+        "anomaly_timestamp": 1708802325,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 382.8789745,
+        "anomaly_mavg": 192.86917068888852,
+        "anomaly_timestamp": 1708802306,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 418.4497496667,
+        "anomaly_mavg": 236.65858693586844,
+        "anomaly_timestamp": 1708802232,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "23.142.248.60",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 292.3630783333,
+        "anomaly_mavg": 122.63635322267004,
+        "anomaly_timestamp": 1708802298,
+        "asn": "393577",
+        "as_name": "Tritan Development",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 448.8506546667,
+        "anomaly_mavg": 311.3893549707958,
+        "anomaly_timestamp": 1708802542,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "196.49.84.188",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 169.1659576667,
+        "anomaly_mavg": 138.87119295944055,
+        "anomaly_timestamp": 1708802522,
+        "asn": "328913",
+        "as_name": "ST DIGITAL",
+        "country_code": "CM"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 278.775599,
+        "anomaly_mavg": 207.78478194902885,
+        "anomaly_timestamp": 1708803282,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "123.176.1.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 294.212825,
+        "anomaly_mavg": 238.13093027768502,
+        "anomaly_timestamp": 1708803288,
+        "asn": "7642",
+        "as_name": "Dhiraagu Pvt.Ltd.",
+        "country_code": "MV"
+    },
+    {
+        "anomaly_source": "103.148.239.134",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 296.0650566667,
+        "anomaly_mavg": 206.77355537652002,
+        "anomaly_timestamp": 1708803263,
+        "asn": "132337",
+        "as_name": "AXCLUSIVE PTE. LTD.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "103.170.25.13",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 259.0733363333,
+        "anomaly_mavg": 193.30036160908395,
+        "anomaly_timestamp": 1708803284,
+        "asn": "142360",
+        "as_name": "PT Internet Mulia Untuk Negeri",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "103.113.176.82",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 271.839452,
+        "anomaly_mavg": 184.48697217607742,
+        "anomaly_timestamp": 1708803400,
+        "asn": "137566",
+        "as_name": "Supernap Thailand Company Limited",
+        "country_code": "TH"
+    },
+    {
+        "anomaly_source": "103.148.239.134",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 301.7710516667,
+        "anomaly_mavg": 242.490155892592,
+        "anomaly_timestamp": 1708803467,
+        "asn": "132337",
+        "as_name": "AXCLUSIVE PTE. LTD.",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 336.806966,
+        "anomaly_mavg": 215.38419125903025,
+        "anomaly_timestamp": 1708804063,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 403.7709053333,
+        "anomaly_mavg": 221.77534206697663,
+        "anomaly_timestamp": 1708805434,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.168.145.10",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 214.810664,
+        "anomaly_mavg": 168.87765478031213,
+        "anomaly_timestamp": 1708805485,
+        "asn": "398960",
+        "as_name": "Cryoflesh Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 354.6219043333,
+        "anomaly_mavg": 196.22278586895152,
+        "anomaly_timestamp": 1708805450,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 376.6601153333,
+        "anomaly_mavg": 196.11874515209075,
+        "anomaly_timestamp": 1708805355,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 445.3616773333,
+        "anomaly_mavg": 261.9670835517986,
+        "anomaly_timestamp": 1708806163,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 406.8339595,
+        "anomaly_mavg": 245.17110833445415,
+        "anomaly_timestamp": 1708806155,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.84.153.114",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 318.808784,
+        "anomaly_mavg": 241.58763133973508,
+        "anomaly_timestamp": 1708806101,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "45.76.126.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 464.3450176667,
+        "anomaly_mavg": 279.0676289445996,
+        "anomaly_timestamp": 1708806127,
+        "asn": "20473",
+        "as_name": "The Constant Company, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "128.0.113.132",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 328.7671993333,
+        "anomaly_mavg": 255.54402911792045,
+        "anomaly_timestamp": 1708806142,
+        "asn": "199610",
+        "as_name": "marbis GmbH",
+        "country_code": "DE"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 390.9989856667,
+        "anomaly_mavg": 219.4979431341668,
+        "anomaly_timestamp": 1708806152,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "203.175.175.206",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 178.3880916667,
+        "anomaly_mavg": 145.23024088617808,
+        "anomaly_timestamp": 1708806137,
+        "asn": "24482",
+        "as_name": "SG.GS",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "139.99.219.16",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 366.440255,
+        "anomaly_mavg": 286.30252862275063,
+        "anomaly_timestamp": 1708806093,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "202.46.184.4",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 461.0151683333,
+        "anomaly_mavg": 279.5968744658372,
+        "anomaly_timestamp": 1708806163,
+        "asn": "38064",
+        "as_name": "InternetNZ",
+        "country_code": "NZ"
+    },
+    {
+        "anomaly_source": "63.222.188.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 332.0795673333,
+        "anomaly_mavg": 235.96565472248625,
+        "anomaly_timestamp": 1708806190,
+        "asn": "3491",
+        "as_name": "PCCW Global, Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.160.63.222",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 272.105006,
+        "anomaly_mavg": 176.9558285214137,
+        "anomaly_timestamp": 1708806250,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "203.174.85.106",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 370.0029963333,
+        "anomaly_mavg": 263.60086473937554,
+        "anomaly_timestamp": 1708806157,
+        "asn": "38001",
+        "as_name": "NewMedia Express Pte Ltd",
+        "country_code": "SG"
+    },
+    {
+        "anomaly_source": "182.161.73.41",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 330.6554396667,
+        "anomaly_mavg": 258.94024280714854,
+        "anomaly_timestamp": 1708806091,
+        "asn": "55569",
+        "as_name": "Criteo Technology",
+        "country_code": "JP"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 384.8612595,
+        "anomaly_mavg": 216.88692847837672,
+        "anomaly_timestamp": 1708806149,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 416.0500503333,
+        "anomaly_mavg": 232.87765625734377,
+        "anomaly_timestamp": 1708806086,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "117.20.118.21",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 360.4329633333,
+        "anomaly_mavg": 284.0525155937787,
+        "anomaly_timestamp": 1708806090,
+        "asn": "45498",
+        "as_name": "Smart Axiata Co., Ltd.",
+        "country_code": "KH"
+    },
+    {
+        "anomaly_source": "103.179.37.157",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 401.2030843333,
+        "anomaly_mavg": 289.8441094358333,
+        "anomaly_timestamp": 1708806206,
+        "asn": "151332",
+        "as_name": "CoinJar Pty Ltd",
+        "country_code": "AU"
+    },
+    {
+        "anomaly_source": "103.215.229.229",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 275.4890913333,
+        "anomaly_mavg": 193.0762715410949,
+        "anomaly_timestamp": 1708806153,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "38.47.189.189",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 337.443914,
+        "anomaly_mavg": 242.5954483738798,
+        "anomaly_timestamp": 1708806189,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "139.99.78.22",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 329.3650386667,
+        "anomaly_mavg": 239.01897923221398,
+        "anomaly_timestamp": 1708806795,
+        "asn": "16276",
+        "as_name": "OVH SAS",
+        "country_code": "FR"
+    },
+    {
+        "anomaly_source": "202.70.133.25",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 321.1639563333,
+        "anomaly_mavg": 237.25425459840125,
+        "anomaly_timestamp": 1708806351,
+        "asn": "140443",
+        "as_name": "PT Herza Digital Indonesia",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "150.164.1.222",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 294.4875873333,
+        "anomaly_mavg": 222.76179042810844,
+        "anomaly_timestamp": 1708806562,
+        "asn": "271354",
+        "as_name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "197.239.73.59",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 160.6364553333,
+        "anomaly_mavg": 122.34060838056229,
+        "anomaly_timestamp": 1708808037,
+        "asn": "37577",
+        "as_name": "Orange Burkina Faso",
+        "country_code": "BF"
+    },
+    {
+        "anomaly_source": "156.154.135.254",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 236.170918,
+        "anomaly_mavg": 179.07660805582213,
+        "anomaly_timestamp": 1708808746,
+        "asn": "12008",
+        "as_name": "Vercara, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "23.142.248.60",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 1227.19802,
+        "anomaly_mavg": 122.60688355487235,
+        "anomaly_timestamp": 1708808791,
+        "asn": "393577",
+        "as_name": "Tritan Development",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "103.41.247.100",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 478.533408,
+        "anomaly_mavg": 243.81258459067865,
+        "anomaly_timestamp": 1708808981,
+        "asn": "133802",
+        "as_name": "Universitas Pasundan Bandung",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 302.5928443333,
+        "anomaly_mavg": 235.81795218543692,
+        "anomaly_timestamp": 1708809550,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 439.224521,
+        "anomaly_mavg": 242.85768329522935,
+        "anomaly_timestamp": 1708809732,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "152.195.206.35",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 408.1856645,
+        "anomaly_mavg": 217.44064519815623,
+        "anomaly_timestamp": 1708809710,
+        "asn": "15133",
+        "as_name": "Edgecast Inc.",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 392.882493,
+        "anomaly_mavg": 192.04918551981694,
+        "anomaly_timestamp": 1708809756,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 385.495969,
+        "anomaly_mavg": 192.866654512599,
+        "anomaly_timestamp": 1708809739,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 457.4007495,
+        "anomaly_mavg": 262.52790904458215,
+        "anomaly_timestamp": 1708809744,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 426.398913,
+        "anomaly_mavg": 234.54668310002447,
+        "anomaly_timestamp": 1708814112,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "148.163.220.5",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 379.437412,
+        "anomaly_mavg": 192.0382311132345,
+        "anomaly_timestamp": 1708813993,
+        "asn": "36236",
+        "as_name": "NetActuate, Inc",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 382.3165386667,
+        "anomaly_mavg": 192.96463901117454,
+        "anomaly_timestamp": 1708814018,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 456.2853273333,
+        "anomaly_mavg": 241.24419298298375,
+        "anomaly_timestamp": 1708814004,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "200.7.84.24",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 430.9746653333,
+        "anomaly_mavg": 276.35914384828527,
+        "anomaly_timestamp": 1708814768,
+        "asn": "28000",
+        "as_name": "LACNIC - Latin American and Caribbean IP address",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "177.124.129.226",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 381.842365,
+        "anomaly_mavg": 220.10221487441052,
+        "anomaly_timestamp": 1708814747,
+        "asn": "52863",
+        "as_name": "UPX TECNOLOGIA LTDA",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 348.7908533333,
+        "anomaly_mavg": 269.0158403936317,
+        "anomaly_timestamp": 1708814703,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "150.164.1.222",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 295.7122536667,
+        "anomaly_mavg": 229.6719713815499,
+        "anomaly_timestamp": 1708814965,
+        "asn": "271354",
+        "as_name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+        "country_code": "BR"
+    },
+    {
+        "anomaly_source": "76.26.115.194",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 162.0708266667,
+        "anomaly_mavg": 109.64508570823367,
+        "anomaly_timestamp": 1708815206,
+        "asn": "7922",
+        "as_name": "Comcast Cable Communications, LLC",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "202.152.129.74",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 235.5427883333,
+        "anomaly_mavg": 185.15252920004508,
+        "anomaly_timestamp": 1708815220,
+        "asn": "23951",
+        "as_name": "PT JEMBATAN CITRA NUSANTARA",
+        "country_code": "ID"
+    },
+    {
+        "anomaly_source": "50.28.98.185",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 174.9706,
+        "anomaly_mavg": 143.9105732253384,
+        "anomaly_timestamp": 1708815462,
+        "asn": "53824",
+        "as_name": "Liquid Web, L.L.C",
+        "country_code": "US"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 299.953261,
+        "anomaly_mavg": 249.80985392832378,
+        "anomaly_timestamp": 1708815808,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "103.144.177.30",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 136.772624,
+        "anomaly_mavg": 111.44791035351504,
+        "anomaly_timestamp": 1708817888,
+        "asn": "53356",
+        "as_name": "Free Range Cloud Hosting Inc.",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "190.64.201.9",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 329.9199346667,
+        "anomaly_mavg": 236.77209435404745,
+        "anomaly_timestamp": 1708817864,
+        "asn": "6057",
+        "as_name": "Administracion Nacional de Telecomunicaciones",
+        "country_code": "UY"
+    },
+    {
+        "anomaly_source": "96.126.70.90",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 149.9470086667,
+        "anomaly_mavg": 102.77334856907203,
+        "anomaly_timestamp": 1708819050,
+        "asn": "21659",
+        "as_name": "Alt Telecom",
+        "country_code": "CA"
+    },
+    {
+        "anomaly_source": "23.155.72.145",
+        "anomaly_address": "185.25.205.152",
+        "anomaly_avg": 187.7422715,
+        "anomaly_mavg": 147.66644963242402,
+        "anomaly_timestamp": 1708819068,
+        "asn": "64289",
+        "as_name": "Macarne LLC",
+        "country_code": "US"
+    }
+]
