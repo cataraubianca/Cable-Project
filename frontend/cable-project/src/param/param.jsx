@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./param.module.css"; 
-import { VectorMap } from "react-jvectormap"
+import { VectorMap } from "react-jvectormap";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
 import announcements_after from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/announcements_after.json";
 import announcements_before from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/announcements_before.json";
@@ -13,6 +13,7 @@ import real_withdrawal_L1_source from "C:/Users/Bianca/Desktop/France/first_year
 import real_withdrawal_L2_destination from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/real_withdrawal_L2_destination.json";
 import real_withdrawal_L2_source from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/real_withdrawal_L2_source.json";
 import anomalies from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/anomalies.json";
+import delays from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/delays.json"; // Import delay results
 import { Navbar } from "../navbar/navbar";
 
 const Map = ({ mapData }) => {
@@ -58,6 +59,7 @@ const Map = ({ mapData }) => {
         </div>
     );
 };
+
 const renderAnnouncementsTable = (data, title) => (
     <div>
         <h2>{title}</h2>
@@ -127,7 +129,6 @@ const renderFlapL1SourceTable = (data, title) => (
                         <th className={styles.th}>Destination</th>
                         <th className={styles.th}>Timestamp</th>
                         <th className={styles.th}>Count</th>
-                        <th className={styles.th}>Country</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -137,7 +138,6 @@ const renderFlapL1SourceTable = (data, title) => (
                             <td className={styles.td}>{item[1]}</td>
                             <td className={styles.td}>{new Date(item[2] * 1000).toLocaleString()}</td>
                             <td className={styles.td}>{item[3]}</td>
-                            <td className={styles.td}>{item[4]}</td>
                         </tr>
                     ))}
                 </tbody>
@@ -190,6 +190,34 @@ const renderHistogram = (data, title, before = true) => {
     );
 };
 
+const renderDelayTable = (data, title) => (
+    <div>
+        <h2>{title}</h2>
+        <div className={styles.tableContainer}>
+            <table className={styles.table}>
+                <thead>
+                    <tr>
+                        <th className={styles.th}>Source ASN</th>
+                        <th className={styles.th}>Destination ASN</th>
+                        <th className={styles.th}>Length</th>
+                        <th className={styles.th}>Minimum Length</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {data.map((item, index) => (
+                        <tr key={index}>
+                            <td className={styles.td}>{item[0]}</td>
+                            <td className={styles.td}>{item[1]}</td>
+                            <td className={styles.td}>{item[2]}</td>
+                            <td className={styles.td}>{item[3]}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+        </div>
+    </div>
+);
+
 export const Param = () => {
 
     const countryCounts = anomalies.reduce((counts, anomaly) => {
@@ -213,15 +241,11 @@ export const Param = () => {
             {renderAnnouncementsTable(announcements_before, "Announcements Before")}
             {renderHistogram(announcements_after, "Number of Announcements After", false)}
             {renderAnnouncementsTable(announcements_after, "Announcements After")}
+            {renderDelayTable(delays, "Delay Results")} 
             {renderFlapL1SourceTable(real_withdrawal_L1_source, "Withdrawals Before Delay at Source")}
             {renderFlapL1SourceTable(real_withdrawal_L2_source, "Withdrawals After Delay at Source")}
             {renderFlapL1SourceTable(flap_L1_source, "Flaps Before Delay at Source")}
-            {renderFlapL1SourceTable(flap_L2_source, "Flaps After Delay at Source")}          
-            {renderFlapL1SourceTable(flap_L1_destination, "Flaps Before Delay at Destination")}
-            {renderFlapL1SourceTable(real_withdrawal_L1_destination, "Withdrawals Before Delay at Destination")}
-            {renderFlapL1SourceTable(flap_L2_destination, "Flaps After Delay at Destination")}
-            {renderFlapL1SourceTable(real_withdrawal_L2_destination, "Withdrawals After Delay at Destination")}
+            {renderFlapL1SourceTable(flap_L2_source, "Flaps After Delay at Source")}
         </div>
     );
 };
-

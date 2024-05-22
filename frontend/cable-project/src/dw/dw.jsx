@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./dw.module.css";
-import { VectorMap } from "react-jvectormap"
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
+import { VectorMap } from "react-jvectormap";
+import { Navbar } from "../navbar/navbar";
 import flap_L1_destination from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/flap_L1_destination_dw.json";
 import flap_L1_source from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/flap_L1_source_dw.json";
 import flap_L2_destination from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/flap_L2_destination_dw.json";
@@ -11,7 +11,6 @@ import real_withdrawal_L1_source from "C:/Users/Bianca/Desktop/France/first_year
 import real_withdrawal_L2_destination from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/real_withdrawal_L2_destination_dw.json";
 import real_withdrawal_L2_source from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/real_withdrawal_L2_source_dw.json";
 import anomalies from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/anomalies_dw.json";
-import { Navbar } from "../navbar/navbar";
 
 const Map = ({ mapData }) => {
     return (
@@ -64,6 +63,7 @@ const renderAnomalies = (data, title) => (
             <table className={styles.table}>
                 <thead>
                     <tr>
+                        <th className={styles.th}>ID</th>
                         <th className={styles.th}>Source</th>
                         <th className={styles.th}>Destination</th>
                         <th className={styles.th}>Avg</th>
@@ -76,6 +76,7 @@ const renderAnomalies = (data, title) => (
                 <tbody>
                     {data.map((item, index) => (
                         <tr key={index}>
+                            <td className={styles.td}>{index + 1}</td>
                             <td className={styles.td}>{item.anomaly_source}</td>
                             <td className={styles.td}>{item.anomaly_address}</td>
                             <td className={styles.td}>{item.anomaly_avg}</td>
@@ -119,8 +120,6 @@ const renderFlapL1SourceTable = (data, title) => (
     </div>
 );
 
-
-
 export const Dw = () => {
     const countryCounts = anomalies.reduce((counts, anomaly) => {
         const countryCode = anomaly.country_code;
@@ -132,9 +131,10 @@ export const Dw = () => {
         data[countryCode] = countryCounts[countryCode];
         return data;
     }, {});
+
     return (
         <div>
-            <Navbar/>
+            <Navbar />
             <h2>Map of countries with most delays from the country of interest</h2>
             <Map mapData={mapData} />
             {renderAnomalies(anomalies, "Anomalies")}
@@ -150,4 +150,3 @@ export const Dw = () => {
         </div>
     );
 };
-

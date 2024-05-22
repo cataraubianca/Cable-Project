@@ -44,6 +44,16 @@ def get_info(msm, start_year, start_month, start_day, stop_year, stop_month, sto
             print("Command output:", e.output)
             print("Command stderr:", e.stderr)
 
+    def call_graph(timestamp, source, destination):
+        command = f"wsl python3 as_mapping.py {timestamp} {source} {destination}"
+        try:
+            result = subprocess.run(command, shell=True, check=True, capture_output=True, text=True)
+            print("Command output:", result.stdout)
+        except subprocess.CalledProcessError as e:
+            print("Error executing command:", e)
+            print("Command output:", e.output)
+            print("Command stderr:", e.stderr)
+
     anomaly_file = 'anomalies.json'
 
     if os.path.isfile('./results1.pkl'):
@@ -60,12 +70,16 @@ def get_info(msm, start_year, start_month, start_day, stop_year, stop_month, sto
     src_dict=dict()
     anomaly_dict=dict()
     timeordered_dict=dict()
+    i=0
     if is_success:
         with open('results.pkl', 'wb') as file:
             pickle.dump(results, file)
         alpha=0.4 #moving average coefficient
         beta=0.4 #moving standard deviation coefficient
         for res in results:
+            if i == 0:
+                print(res)
+            i = i + 1
             epoch=res['stored_timestamp']//(5*60)*5*60
             if (epoch in timeordered_dict):
                 timeordered_dict[epoch].append(res)
@@ -125,6 +139,7 @@ def get_info(msm, start_year, start_month, start_day, stop_year, stop_month, sto
     call_withdrawals_source(int(anomaly_timestamp_), str(anomaly_source_), str(anomaly_address_))
     call_withdrawals_destination(int(anomaly_timestamp_), str(anomaly_source_), str(anomaly_address_))
     call_announcements(int(anomaly_timestamp_), str(anomaly_source_), str(anomaly_address_))
+    call_graph(int(anomaly_timestamp_), str(anomaly_source_), str(anomaly_address_))
 #get_info(23046934, 2024, 2, 23, 2024, 2, 24, 205)  # msm_id, date of start, date of end, id of the row in the table that we want to run the functions on as example -> 179
 @app.route('/run', methods=['POST'])
 def run():

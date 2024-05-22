@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./d_res.module.css"; 
-import { VectorMap } from "react-jvectormap"
+import { VectorMap } from "react-jvectormap";
 import anomalies from "C:/Users/Bianca/Desktop/France/first_year/second_semester/projet/anomalies_d.json";
 import { Navbar } from "../navbar/navbar";
 
@@ -55,6 +55,7 @@ const renderAnomalies = (data, title) => (
             <table className={styles.table}>
                 <thead>
                     <tr>
+                        <th className={styles.th}>ID</th>
                         <th className={styles.th}>Source</th>
                         <th className={styles.th}>Destination</th>
                         <th className={styles.th}>Avg</th>
@@ -67,6 +68,7 @@ const renderAnomalies = (data, title) => (
                 <tbody>
                     {data.map((item, index) => (
                         <tr key={index}>
+                            <td className={styles.td}>{index + 1}</td>
                             <td className={styles.td}>{item.anomaly_source}</td>
                             <td className={styles.td}>{item.anomaly_address}</td>
                             <td className={styles.td}>{item.anomaly_avg}</td>
@@ -82,8 +84,6 @@ const renderAnomalies = (data, title) => (
     </div>
 );
 
-
-
 export const D_res = () => {
     const countryCounts = anomalies.reduce((counts, anomaly) => {
         const countryCode = anomaly.country_code;
@@ -95,13 +95,13 @@ export const D_res = () => {
         data[countryCode] = countryCounts[countryCode];
         return data;
     }, {});
+    
     return (
         <div>
-            <Navbar/>
+            <Navbar />
             <h2>Map of countries with most delays from the country of interest</h2>
             <Map mapData={mapData} />
             {renderAnomalies(anomalies, "Anomalies")}
         </div>
     );
 };
-
