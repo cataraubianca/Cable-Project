@@ -4,16 +4,13 @@ import { VectorMap } from "react-jvectormap"
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
 import announcements_after from "../data/announcements_after.json";
 import announcements_before from "../data/announcements_before.json";
-import flap_L1_destination from "../data/flap_L1_destination.json";
 import flap_L1_source from "../data/flap_L1_source.json";
-import flap_L2_destination from "../data/flap_L2_destination.json";
 import flap_L2_source from "../data/flap_L2_source.json";
-import real_withdrawal_L1_destination from "../data/real_withdrawal_L1_destination.json";
 import real_withdrawal_L1_source from "../data/real_withdrawal_L1_source.json";
-import real_withdrawal_L2_destination from "../data/real_withdrawal_L2_destination.json";
 import real_withdrawal_L2_source from "../data/real_withdrawal_L2_source.json";
 import anomalies from "../data/anomalies.json";
 import { Navbar } from "../navbar/navbar";
+import delays from "../data1/delays.json";
 
 const Map = ({ mapData }) => {
     return (
@@ -58,6 +55,34 @@ const Map = ({ mapData }) => {
         </div>
     );
 };
+
+const renderDelayTable = (data, title) => (
+    <div>
+        <h2>{title}</h2>
+        <div className={styles.tableContainer}>
+            <table className={styles.table}>
+                <thead>
+                    <tr>
+                        <th className={styles.th}>Source ASN</th>
+                        <th className={styles.th}>Destination ASN</th>
+                        <th className={styles.th}>Length</th>
+                        <th className={styles.th}>Minimum Length</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {data.map((item, index) => (
+                        <tr key={index}>
+                            <td className={styles.td}>{item[0]}</td>
+                            <td className={styles.td}>{item[1]}</td>
+                            <td className={styles.td}>{item[2]}</td>
+                            <td className={styles.td}>{item[3]}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+        </div>
+    </div>
+);
 const renderAnnouncementsTable = (data, title) => (
     <div>
         <h2>{title}</h2>
@@ -209,14 +234,11 @@ export const Case1 = () => {
             {renderAnnouncementsTable(announcements_before, "Announcements Before")}
             {renderHistogram(announcements_after, "Number of Announcements After", false)}
             {renderAnnouncementsTable(announcements_after, "Announcements After")}
+            {renderDelayTable(delays, "Delay Results")} 
             {renderFlapL1SourceTable(flap_L1_source, "Flaps Before Delay at Source")}
             {renderFlapL1SourceTable(real_withdrawal_L1_source, "Withdrawals Before Delay at Source")}
             {renderFlapL1SourceTable(flap_L2_source, "Flaps After Delay at Source")}
             {renderFlapL1SourceTable(real_withdrawal_L2_source, "Withdrawals After Delay at Source")}
-            {renderFlapL1SourceTable(flap_L1_destination, "Flaps Before Delay at Destination")}
-            {renderFlapL1SourceTable(real_withdrawal_L1_destination, "Withdrawals Before Delay at Destination")}
-            {renderFlapL1SourceTable(flap_L2_destination, "Flaps After Delay at Destination")}
-            {renderFlapL1SourceTable(real_withdrawal_L2_destination, "Withdrawals After Delay at Destination")}
         </div>
     );
 };
